@@ -1,0 +1,252 @@
+{
+  "project_info": {
+    "project_number": "259392011191",
+    "project_id": "melodic-metrics-383421",
+    "storage_bucket": "melodic-metrics-383421.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:259392011191:android:162a41f0ee7137f2434632",
+        "android_client_info": {
+          "package_name": "com.example.mended_new"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "259392011191-e35tp95tk0j993qdjt2dk0k8tmo4khc2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBSJ7DobaZWugvIiCJwJ_jvIrryLINqKbI"
+        },
+        {
+          "current_key": "AIzaSyBMsNewifE7kJ0PYkCWgO6Ffndz8xd_k0o"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "259392011191-982lgeq650ef4mmh3i06gk45pg0sbp88.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "259392011191-7ochk3u4t7ii0ap3uar3d9djrhc2mdke.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.theripist.mended"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:259392011191:android:f50446f3c4527e26434632",
+        "android_client_info": {
+          "package_name": "com.example.mender_new"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "259392011191-e35tp95tk0j993qdjt2dk0k8tmo4khc2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBSJ7DobaZWugvIiCJwJ_jvIrryLINqKbI"
+        },
+        {
+          "current_key": "AIzaSyBMsNewifE7kJ0PYkCWgO6Ffndz8xd_k0o"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "259392011191-982lgeq650ef4mmh3i06gk45pg0sbp88.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "259392011191-7ochk3u4t7ii0ap3uar3d9djrhc2mdke.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.theripist.mended"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:259392011191:android:53fdf5603db62b79434632",
+        "android_client_info": {
+          "package_name": "com.example.multivendor"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "259392011191-e35tp95tk0j993qdjt2dk0k8tmo4khc2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBSJ7DobaZWugvIiCJwJ_jvIrryLINqKbI"
+        },
+        {
+          "current_key": "AIzaSyBMsNewifE7kJ0PYkCWgO6Ffndz8xd_k0o"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "259392011191-982lgeq650ef4mmh3i06gk45pg0sbp88.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "259392011191-7ochk3u4t7ii0ap3uar3d9djrhc2mdke.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.theripist.mended"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:259392011191:android:67ba45ff5fd78d88434632",
+        "android_client_info": {
+          "package_name": "com.therapist.mended"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "259392011191-ra8tgcgglte7t2ok8gcqo0jvdn7c7aj9.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.therapist.mended",
+            "certificate_hash": "6db7dbb6d6ff4441d93d9da68a4a3af065aa193e"
+          }
+        },
+        {
+          "client_id": "259392011191-e35tp95tk0j993qdjt2dk0k8tmo4khc2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBSJ7DobaZWugvIiCJwJ_jvIrryLINqKbI"
+        },
+        {
+          "current_key": "AIzaSyBMsNewifE7kJ0PYkCWgO6Ffndz8xd_k0o"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "259392011191-982lgeq650ef4mmh3i06gk45pg0sbp88.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "259392011191-7ochk3u4t7ii0ap3uar3d9djrhc2mdke.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.theripist.mended"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:259392011191:android:0075d8ee209c8f97434632",
+        "android_client_info": {
+          "package_name": "com.therapist.mender"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "259392011191-e35tp95tk0j993qdjt2dk0k8tmo4khc2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBSJ7DobaZWugvIiCJwJ_jvIrryLINqKbI"
+        },
+        {
+          "current_key": "AIzaSyBMsNewifE7kJ0PYkCWgO6Ffndz8xd_k0o"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "259392011191-982lgeq650ef4mmh3i06gk45pg0sbp88.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "259392011191-7ochk3u4t7ii0ap3uar3d9djrhc2mdke.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.theripist.mended"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:259392011191:android:b4b60d4441383fc7434632",
+        "android_client_info": {
+          "package_name": "theripist.com.mender"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "259392011191-e35tp95tk0j993qdjt2dk0k8tmo4khc2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBSJ7DobaZWugvIiCJwJ_jvIrryLINqKbI"
+        },
+        {
+          "current_key": "AIzaSyBMsNewifE7kJ0PYkCWgO6Ffndz8xd_k0o"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "259392011191-982lgeq650ef4mmh3i06gk45pg0sbp88.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "259392011191-7ochk3u4t7ii0ap3uar3d9djrhc2mdke.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.theripist.mended"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>259392011191-dldqgo8cc6r0mof1rnm5d4hvq9ermo86.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.259392011191-dldqgo8cc6r0mof1rnm5d4hvq9ermo86</string>
+	<key>ANDROID_CLIENT_ID</key>
+	<string>259392011191-ra8tgcgglte7t2ok8gcqo0jvdn7c7aj9.apps.googleusercontent.com</string>
+	<key>API_KEY</key>
+	<string>AIzaSyAxr8UUidoiD_zyqY1qqSuR7MYPuue_QCA</string>
+	<key>GCM_SENDER_ID</key>
+	<string>259392011191</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>theripist.com.mender</string>
+	<key>PROJECT_ID</key>
+	<string>melodic-metrics-383421</string>
+	<key>STORAGE_BUCKET</key>
+	<string>melodic-metrics-383421.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:259392011191:ios:1a1ff3132dd8468d434632</string>
+</dict>
+</plist>
